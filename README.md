@@ -24,10 +24,10 @@ Files that need to be supplied
 
 How to organise files
 
-•	All EL_COUNTOUR files should be placed in the Contours folder
-•	All ColourRamp.qml files need to be placed in the Styles folder
-•	All rules.txt files need to be placed in the rules folder
-•	ReclassTool.py can be placed in the tools folder for better organisation
+•	All EL_COUNTOUR files should be placed in a Contours folder
+•	All ColourRamp.qml files need to be placed in a Styles folder
+•	All rules.txt files need to be placed in a rules folder
+•	ReclassTool.py can be placed in a tools folder for better organisation
 •	All other outputs should be directed to their respective folder
 
 GUIDELINES FOR USING RECLASSIFICATION TOOL
