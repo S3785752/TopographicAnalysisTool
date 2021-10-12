@@ -5,11 +5,11 @@ GETTING STARTED
 
 The general file layout used for this example
 
-Aspect: Folder that holds the aspect raster data
-Contours: File to hold contour data that needs to be supplied by the user
-Raster: File to hold elevation raster data
-Style: File that holds data on the colours scheme for reclassed rasters
-Tools: File that holds the reclassification tool
+•	Aspect: Folder that holds the aspect raster data
+•	Contours: File to hold contour data that needs to be supplied by the user
+•	Raster: File to hold elevation raster data
+•	Style: File that holds data on the colours scheme for reclassed rasters
+•	Tools: File that holds the reclassification tool
 
 Files that have been supplied
 
