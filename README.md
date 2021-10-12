@@ -13,7 +13,8 @@ The general file layout used for this example
 
 Files that have been supplied
 
-•	reclassTool.py – used to define classes
+•	MajorProject.py - the code for the project
+•	reclassTool.py – the code for creating class rules
 •	The colour ramp files in the styles folder – can be changed if a different colouring style is required
 •	Class rules in the rules folder – Supplied to show an example of the layout required. These need to be changed based on the required classes.
 
@@ -25,6 +26,7 @@ How to organise files
 
 •	All EL_COUNTOUR files should be placed in the Contours folder
 •	All ColourRamp.qml files need to be placed in the Styles folder
+•	All rules.txt files need to be placed in the rules folder
 •	ReclassTool.py can be placed in the tools folder for better organisation
 •	All other outputs should be directed to their respective folder
 
